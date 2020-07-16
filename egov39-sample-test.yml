@@ -1,5 +1,8 @@
-  
-## server port settings
+# server name
+config:
+  message: egov39-sample message
+
+# server port settings
 server:
   port: 9023
 
@@ -20,3 +23,5 @@ spring:
     suffix: .html
     cache: false
     view-names: thymeleaf/*
+
+
