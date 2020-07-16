@@ -1,7 +1,5 @@
 
 config:
+  profile: test
   message: egov39-sample message
-
-
-
 
