@@ -3,3 +3,9 @@ config:
   profile: test
   message: egov39-sample test test message
 
+Globals:
+  DbType: mysql
+  DriverClassName: net.sf.log4jdbc.DriverSpy
+  Url: jdbc:log4jdbc:mysql://127.0.0.1:3306/pst
+  UserName: com
+  Password: com01
