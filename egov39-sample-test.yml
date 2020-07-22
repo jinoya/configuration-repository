@@ -17,3 +17,6 @@ Globals:
     UserName: com
     Password: com01
 
+  login:
+    Lock: true
+    LockCount: 5
