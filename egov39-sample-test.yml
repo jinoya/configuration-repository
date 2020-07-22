@@ -9,3 +9,4 @@ Globals:
   Url: jdbc:log4jdbc:mysql://127.0.0.1:3306/pst
   UserName: com
   Password: com01
+
