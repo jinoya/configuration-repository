@@ -1,7 +1,7 @@
 
 config:
-  profile: test
-  message: egov39-sample test test message
+  profile: pst
+  message: pst cloud config
 
 Globals:
   DbType: mysql
