@@ -1,0 +1,5 @@
+
+config:
+  profile: test
+  message: test cloud config
+
