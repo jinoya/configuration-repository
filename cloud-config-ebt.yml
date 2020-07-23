@@ -1,0 +1,12 @@
+
+config:
+  profile: ebt
+  message: ebt cloud config
+
+Globals:
+  DbType: mysql
+  DriverClassName: net.sf.log4jdbc.DriverSpy
+  Url: jdbc:log4jdbc:mysql://127.0.0.1:3306/ebt
+  UserName: com
+  Password: com01
+
