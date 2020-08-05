@@ -1,5 +1,5 @@
 
 config:
   profile: dev
-  message: cloud config client
+  message: cloud config client message
 
